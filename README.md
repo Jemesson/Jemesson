@@ -1,5 +1,5 @@
 # Hi there 👋
 
-## I am software engineer and current exploring Software Architecture. 👨‍💻💻
+## I am Software Engineer and current exploring Software Architecture. 👨‍💻💻
 
 
