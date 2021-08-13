@@ -1,7 +1,7 @@
 ## Hi there 👋. I'm Jemesson from Recife.
 
 ## About me:
-- 💻 I am am Software Engineer and current exploring Software Architecture.
+- 💻 I am a Software Engineer and current working on Software Architecture.
 - 🎮⚽ Playing games, travelling, soccer.
 
 ## Github Stats:
