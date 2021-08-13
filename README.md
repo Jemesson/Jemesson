@@ -1,5 +1,13 @@
-# Hi there 👋
+## Hi there 👋. I'm Jemesson from Recife.
 
-## I am Software Engineer and current exploring Software Architecture. 👨‍💻💻
+## About me:
+- 💻 I am am Software Engineer and current exploring Software Architecture.
+- 🎮⚽ Playing games, travelling, soccer.
+
+## Github Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jemesson&show_icons=true&theme=tokyonight)
+
+## Github Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jemesson&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
