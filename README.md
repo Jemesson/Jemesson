@@ -4,4 +4,4 @@
 
 ## About me:
 - 💻 I am a Software Engineer and current working on Software Architecture.
-- 🎮⚽ Playing games, soccer, travelling.
+- 🏖️ Playing games, soccer, travelling.
