@@ -1,4 +1,4 @@
-## Hi there 👋. I'm Jemesson Lima from Recife, Brazil.
+I'm Jemesson Lima from Recife, Brazil.
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jemessonlima@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jemessonlima)
 
